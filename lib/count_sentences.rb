@@ -12,7 +12,7 @@ def sentence?
   end
 
   def exclamation?
-
+self.
   end
 
   def count_sentences
