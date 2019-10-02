@@ -8,7 +8,7 @@ def sentence?
   end
 
   def question?
-    self.question?
+    
   end
 
   def exclamation?
